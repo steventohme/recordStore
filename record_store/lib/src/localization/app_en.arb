@@ -1,0 +1,6 @@
+{
+  "appTitle": "record_store",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
